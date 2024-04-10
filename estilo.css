@@ -1,0 +1,21 @@
+.contenedor{
+    font-size: 2rem;
+    color: rgb(50, 119, 119);
+    align-content: center;
+}
+body{
+    background: bisque;
+    width: 680px;
+    height: 1024px;
+    
+}
+.contenedor-1{
+    font-size: 1.2rem;
+    color: rgb(187, 83, 8);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-content: normal;
+}
+
+footer{
+    align-items: end;
+}
